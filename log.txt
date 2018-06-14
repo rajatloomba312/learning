@@ -1,4 +1,6 @@
 Well starting with proper functioning of Git
 
 13/04/18 - Completed the PixelArt Project.
-26/04/18 - Course-Google scholarship complete; Final Year project complete; Google CLoud Deployed Commplete; Seminar Report Complete; Report Complete
+26/04/18 - Course-Google scholarship complete; Final Year project complete; Google CLoud Deployed Commplete; Seminar Report Complete; Report Complete4
+
+14/06/2018 - statred Javascript30. First challange done. Learnt about forEach() function for NodeList that querySelectorAll() return. Also how to 			control transition end using transitionend event.

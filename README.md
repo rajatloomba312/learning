@@ -1,2 +1,3 @@
 # learning
-Just the personal learning curve
+Just the personal learning curve.
+Revise weekly

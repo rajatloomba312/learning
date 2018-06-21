@@ -3,4 +3,13 @@ Well starting with proper functioning of Git
 13/04/18 - Completed the PixelArt Project.
 26/04/18 - Course-Google scholarship complete; Final Year project complete; Google CLoud Deployed Commplete; Seminar Report Complete; Report Complete4
 
-14/06/2018 - statred Javascript30. First challange done. Learnt about forEach() function for NodeList that querySelectorAll() return. Also how to 			control transition end using transitionend event.
+14/06/2018 - statred Javascript30. First challange done. Learnt about forEach() function for NodeList that querySelectorAll() return. Also how to 			control transition end using transitionend event.i
+19/06/2018 - almost done with portfolio project. Learnt a lot about CSS and a little bit javascript and events. Will finish it by today.
+20/06/2018 - Submitted project for review and successfully passed it
+
+21/06/2018 - Complete Lab, Creating Pixel art again this time with Javascript. Took me time but learnt a lot. Main pickaways include
+		1. Event Delegation (using event.target)
+		2. used for first time createElement and removeElement.	
+		3. use of firstChildElement.
+	It was all good. Apart from this configured shell for use and even made configuration of atom on gist
+

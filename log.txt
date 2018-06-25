@@ -3,7 +3,8 @@ Well starting with proper functioning of Git
 13/04/18 - Completed the PixelArt Project.
 26/04/18 - Course-Google scholarship complete; Final Year project complete; Google CLoud Deployed Commplete; Seminar Report Complete; Report Complete4
 
-14/06/2018 - statred Javascript30. First challange done. Learnt about forEach() function for NodeList that querySelectorAll() return. Also how to 			control transition end using transitionend event.i
+14/06/2018 - statred Javascript30. First challange done. Learnt about forEach() function for NodeList that querySelectorAll() return. Also how to control transition end using transitionend event.
+
 19/06/2018 - almost done with portfolio project. Learnt a lot about CSS and a little bit javascript and events. Will finish it by today.
 20/06/2018 - Submitted project for review and successfully passed it
 
@@ -13,3 +14,5 @@ Well starting with proper functioning of Git
 		3. use of firstChildElement.
 	It was all good. Apart from this configured shell for use and even made configuration of atom on gist
 
+25/06/2018 - Started reading a book on memory power by Dominic O'Brien. Book seems useful. Learnt about arrow function in JS, then about classes and prototypal inheritance. Also learnt about using this keyword with call(), apply() and bind(). Rest it was all about funtions. Also learnt about focus, tabindex, using taborder for accesibility.
+Then using __proto__, object creation with functions and global scope and function scope.
